@@ -2,7 +2,6 @@
 
 I am a Junior React Developer with over one year of experience. I specialize in building responsive web pages and applications using modern frontend frameworks as React, Bootstrap, etc.
 
-## Skills:
 ### Languages:
 <div>
   <img alt="HTML" src="https://img.shields.io/badge/HTML%205-red?logo=html5&logoColor=white&style=plastic" />
